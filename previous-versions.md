@@ -33,7 +33,7 @@ Preview [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true&is
   
 * Drag and drop to upload or browse for files
 
-<img src="images/wait.gif" alt="" title="" width="" height="">
+<img src="images/wait.gif" alt="" title="" style="max-width: 100%; height: auto;">
 
 Upload file
 

@@ -21,7 +21,7 @@ The production phase can be further divided into several key steps, including As
 
 These key phases and steps in the lifecycle of an extension are illustrated below in [Figure 5-1](https://confluence.ihtsdotools.org/display/DOCEXTPG/5+Key+Steps#Figure-extension-lifecycle-overview "Extension Lifecycle Overview"). Further details about each of these key phases and steps are provided in the subsequent sections, together with the principles that should be followed to ensure the quality and integrity of a SNOMED CT extension.
 
-<img src="../images/57815196.png" alt="" title="" width="500" height="">
+<img src="../images/57815196.png" alt="" title="" style="max-width: 100%; height: auto;">
 
 Figure 5-1: Extension Lifecycle Overview
 
