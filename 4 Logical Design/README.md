@@ -2,7 +2,7 @@
 
 The logical design of a [SNOMED CT extension](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT+Extension) is technically consistent with that of the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition "Glossary link: International Edition"). Both represent and version SNOMED CT components and reference sets in release files that conform to the [Release Format 2](https://confluence.ihtsdotools.org/display/DOCGLOSS/Release+Format+2 "Glossary link: Release Format 2") specification. This makes it easier for consumers of the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition "Glossary link: International Edition") to implement extensions. [Figure 4-1](https://confluence.ihtsdotools.org/display/DOCEXTPG/4+Logical+Design#Figure-editions-and-extensions "Logical design of a SNOMED CT local edition") illustrates the logical design of a typical SNOMED CT local edition and its relationship to the associated local extension, [National Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/National+Edition) and [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition "Glossary link: International Edition").
 
-<img src="images/57815012.png" alt="" title="" width="" height="">
+<img src="../images/57815012.png" alt="" title="" width="" height="">
 
 Figure 4-1: Logical design of a SNOMED CT local edition
 
