@@ -82,6 +82,6 @@
 
 2023-May-04 • updated by [Ian Spiers](/display/~ispiers) • [view change](/pages/diffpagesbyversion.action?pageId=57815271&selectedPageVersions=6&selectedPageVersions=5)
 
-[Show More](/plugins/recently-updated/changes.action?theme=concise&pageSize=20&startIndex=20&searchToken=1178884&spaceKeys=DOCEXTPG&contentType=page)
+[Show More](/plugins/recently-updated/changes.action?theme=concise&pageSize=20&startIndex=20&searchToken=1575337&spaceKeys=DOCEXTPG&contentType=page)
 
-<img src="images/wait.gif" alt="Please wait" title="" style="max-width: 100%; height: auto;">
+<figure><img src="images/wait.gif" alt="Please wait" title=""></figure>

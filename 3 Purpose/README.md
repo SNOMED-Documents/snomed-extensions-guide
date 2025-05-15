@@ -27,9 +27,8 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
 
 ** Purpose **| **Use Case Examples**| **Included Artifacts**  
 ---|---|---  
-**[Translate SNOMED CT](3 Purpose/3.1-.1.md)****** <img src="../images/57814976.png" alt="" title="" style="max-width: 100%; height: auto;">| 
+**[Translate SNOMED CT](3.1-Add-Terms-in-Languages-and-Dialects_57814993.html)****** <figure><img src="../images/57814976.png" alt="" title=""><figcaption><p>* Adding terms used in a local language or dialect</p></figcaption></figure>| 
 
-  * Adding terms used in a local language or dialect
   * Adding terms used by a specific user group, such as patient friendly terms
 
 | 
@@ -40,9 +39,8 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
   * Relationships (metadata only)
 
   
-****[****** **](3 Purpose/3.2-.2.md)[Manage content gaps](3 Purpose/3.2-.2.md)********** <img src="../images/57814974.png" alt="" title="" style="max-width: 100%; height: auto;">**| 
+****[****** **](3.2-Add-Content-to-SNOMED-CT_57814979.html)[Manage content gaps](3.2-Add-Content-to-SNOMED-CT_57814979.html)********** <figure><img src="../images/57814974.png" alt="" title=""><figcaption><p>* Adding components that are missing in the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition "Glossary link: International Edition")</p></figcaption></figure>**| 
 
-  * Adding components that are missing in the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition "Glossary link: International Edition")
   * Adding concepts that are only relevant to a local context
 
 | 
@@ -53,9 +51,8 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
   * Language reference sets
 
   
-**[Maps between SNOMED CT and other code systems](3 Purpose/3.3-.3.md) **<img src="../images/57814977.png" alt="" title="" style="max-width: 100%; height: auto;">| 
+**[Maps between SNOMED CT and other code systems](3.3-Map-Between-SNOMED-CT-and-Other-Code-Systems_57814989.html) **<figure><img src="../images/57814977.png" alt="" title=""><figcaption><p>* Maps between local codes and SNOMED CT</p></figcaption></figure>| 
 
-  * Maps between local codes and SNOMED CT
   * Maps between statistical classification systems and SNOMED CT
 
 | 
@@ -66,9 +63,8 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
   * Relationships (metadata only)
 
   
-****[Configuration of the terminology for specific use cases](3 Purpose/3.4-.4.md) ******[<img src="../images/57814978.png" alt="" title="" style="max-width: 100%; height: auto;">](3 Purpose/3.4-.4.md)**| 
+****[Configuration of the terminology for specific use cases](3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html) ******[<figure><img src="../images/57814978.png" alt="" title=""><figcaption><p>* Specifying groups of components for reporting and analytics</p></figcaption></figure>](3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html)**| 
 
-  * Specifying groups of components for reporting and analytics
   * Linking components to clinical knowledge resources
 
 | 

@@ -27,11 +27,11 @@ Although this guide is not targeted at  _terminology consumers_ , it contains so
 
 This document presents a practical guide to SNOMED CT extensions and is structured as follows:
 
-  * [1 Executive Summary](1 Executive Summary/README.md) presents the key messages from the document.
-  * [2 Introduction](2 Introduction/README.md) explains the background, purpose, scope, audience and overview of the document.
-  * [3 Purpose](3-None.md) introduces the main purposes and key use cases for SNOMED CT extensions.
-  * [4 Logical Design](4-None.md) describes the logical design of SNOMED CT extensions.
-  * [5 Key Steps](5-None.md) describes the key steps involved with the creation, distribution and maintenance of an extension. As part of this, the section explains the key principles and best practices for authoring content in an extension.
+  * [1 Executive Summary](1-Executive-Summary_57815431.html) presents the key messages from the document.
+  * [2 Introduction](2-Introduction_57814995.html) explains the background, purpose, scope, audience and overview of the document.
+  * [3 Purpose](3-Purpose_57814972.html) introduces the main purposes and key use cases for SNOMED CT extensions.
+  * [4 Logical Design](4-Logical-Design_57814999.html) describes the logical design of SNOMED CT extensions.
+  * [5 Key Steps](5-Key-Steps_57815195.html) describes the key steps involved with the creation, distribution and maintenance of an extension. As part of this, the section explains the key principles and best practices for authoring content in an extension.
 
   
 
