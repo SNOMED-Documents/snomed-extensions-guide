@@ -1,3 +1,0 @@
-# Extensions Practical Guide
-
-

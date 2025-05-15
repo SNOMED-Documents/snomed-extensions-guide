@@ -1,43 +1,40 @@
 # Previous Versions
 
-|  [File](/display/DOCEXTPG/Previous+Versions?sortBy=name&sortOrder=ascending) |  [Modified](/display/DOCEXTPG/Previous+Versions?sortBy=date&sortOrder=ascending)  
----|---|---  
-|  [ doc_ExtensionsPracticalGuide_Current-en-US_INT_20230523.pdf ](/download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20230523.pdf?api=v2 "Download") |  2023-May-23 by [Ian Spiers](    /display/~ispiers
-)  
-|  Labels
+\| [File](display/DOCEXTPG/Previous+Versions) | [Modified](display/DOCEXTPG/Previous+Versions)\
+\---|---|---\
+\| [doc\_ExtensionsPracticalGuide\_Current-en-US\_INT\_20230523.pdf ](download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20230523.pdf)| 2023-May-23 by [Ian Spiers](display/~ispiers/)\
+\| Labels
 
-  * No labels 
-  * 
-Preview [$itemLabel]($itemRenderedUrl&isFromPageView=true) [$itemLabel]($itemRenderedUrl&isFromPageView=true)  
-|  [ doc_ExtensionsPracticalGuide_Current-en-US_INT_20210301.pdf ](/download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20210301.pdf?api=v2 "Download") |  2023-May-23 by [Ian Spiers](    /display/~ispiers
-)  
-|  Labels
+* No labels
+*
 
-  * No labels 
-  * 
-Preview [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true) [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true)  
-|  [ doc_ExtensionsPracticalGuide_Current-en-US_INT_20200502.pdf ](/download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20200502.pdf?api=v2 "Download") |  2020-May-02 by [Linda Bird](    /display/~lbird
-)  
-|  Labels
+Preview [$itemLabel]($itemRenderedUrl\&isFromPageView=true/) [$itemLabel]($itemRenderedUrl\&isFromPageView=true/)\
+\| [doc\_ExtensionsPracticalGuide\_Current-en-US\_INT\_20210301.pdf ](download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20210301.pdf)| 2023-May-23 by [Ian Spiers](display/~ispiers/)\
+\| Labels
 
-  * No labels 
-  * 
-Preview [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true&isFromPageView=true) [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true&isFromPageView=true)  
-|  [ doc_ExtensionsPraccticalGuide_Current-en-US_INT_20180703.pdf ](/download/attachments/57815405/doc_ExtensionsPraccticalGuide_Current-en-US_INT_20180703.pdf?api=v2 "Download") |  2020-May-02 by [Linda Bird](    /display/~lbird
-)  
-|  Labels
+* No labels
+*
 
-  * No labels 
-  * 
-Preview [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true&isFromPageView=true&isFromPageView=true) [$itemLabel]($itemRenderedUrl&isFromPageView=true&isFromPageView=true&isFromPageView=true&isFromPageView=true)  
-  
+Preview [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true/) [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true/)\
+\| [doc\_ExtensionsPracticalGuide\_Current-en-US\_INT\_20200502.pdf ](download/attachments/57815405/doc_ExtensionsPracticalGuide_Current-en-US_INT_20200502.pdf)| 2020-May-02 by [Linda Bird](display/~lbird/)\
+\| Labels
+
+* No labels
+*
+
+Preview [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true/) [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true/)\
+\| [doc\_ExtensionsPraccticalGuide\_Current-en-US\_INT\_20180703.pdf ](download/attachments/57815405/doc_ExtensionsPraccticalGuide_Current-en-US_INT_20180703.pdf)| 2020-May-02 by [Linda Bird](display/~lbird/)\
+\| Labels
+
+* No labels
+*
+
+Preview [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true/) [$itemLabel]($itemRenderedUrl\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true\&isFromPageView=true/)
+
 * Drag and drop to upload or browse for files
 
-<figure><img src="images/wait.gif" alt="" title=""><figcaption><p>Upload file</p></figcaption></figure>
+<figure><img src="images/wait.gif" alt=""><figcaption><p>Upload file</p></figcaption></figure>
 
 File description
 
-[Download All](/pages/downloadallattachments.action?pageId=57815405 "Download all the latest versions of attachments on this page as single zip file.")
-
-  
-
+[Download All](pages/downloadallattachments.action)
