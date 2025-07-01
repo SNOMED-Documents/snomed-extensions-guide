@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Extensions Practical Guide](README.md)
-* [1 Executive Summary](<1 executive-summary/README.md>)
+* [Executive Summary](<1 executive-summary/README.md>)
 * [2 Introduction](<2 Introduction/README.md>)
 * [3 Purpose](<3 Purpose/README.md>)
   * [3.1-add-terms-in-languages-and-dialects](<3 Purpose/3.1-add-terms-in-languages-and-dialects.md>)
