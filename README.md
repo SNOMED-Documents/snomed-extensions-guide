@@ -4,4 +4,6 @@ The Extensions Practical Guide presents the purpose, process and principles of c
 
 This guide has been developed to assist National Release Centers and other extension producers to develop extensions based on recommended principles.
 
-{% include "https://app.gitbook.com/s/JkP2A3FYWj9DLyYhKDm2/~/reusable/4FPLZ4Y9yza7Lu15Sgzc/" %}
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="2 Introduction/">Introduction</a></td></tr></tbody></table>
+
+{% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
