@@ -7,3 +7,5 @@ This guide has been developed to assist National Release Centers and other exten
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="2 Introduction/">Introduction</a></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="2 Introduction/">Introduction</a></td></tr><tr><td><a href="3 Purpose/">Purpose</a></td></tr><tr><td><a href="4 logical-design/">Logical Design</a></td></tr><tr><td><a href="5 key-steps/">Key Steps</a></td></tr></tbody></table>
