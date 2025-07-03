@@ -1,6 +1,6 @@
-# 3 Purpose
+# Purpose
 
-[SNOMED CT](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT) is a multilingual clinical terminology that covers a broad scope of clinical concepts to an appropriate level of detail for international use. In addition, it provides an [extension](https://confluence.ihtsdotools.org/display/DOCGLOSS/Extension) mechanism that allows [SNOMED CT](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT) to be customized to address terminology needs that are not met by the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition). This mechanism enables new [concepts](https://confluence.ihtsdotools.org/display/DOCGLOSS/Concept), [relationships](https://confluence.ihtsdotools.org/display/DOCGLOSS/Relationship), [descriptions](https://confluence.ihtsdotools.org/display/DOCGLOSS/Description) and [reference sets](https://confluence.ihtsdotools.org/display/DOCGLOSS/Reference+Set) to be added to support national or local needs.
+[SNOMED CT](https://app.gitbook.com/s/P21QucCX9Y41nBQt50ad/s/snomed-ct) is a multilingual clinical terminology that covers a broad scope of clinical concepts to an appropriate level of detail for international use. In addition, it provides an [extension](https://confluence.ihtsdotools.org/display/DOCGLOSS/Extension) mechanism that allows [SNOMED CT](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT) to be customized to address terminology needs that are not met by the [International Edition](https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition). This mechanism enables new [concepts](https://confluence.ihtsdotools.org/display/DOCGLOSS/Concept), [relationships](https://confluence.ihtsdotools.org/display/DOCGLOSS/Relationship), [descriptions](https://confluence.ihtsdotools.org/display/DOCGLOSS/Description) and [reference sets](https://confluence.ihtsdotools.org/display/DOCGLOSS/Reference+Set) to be added to support national or local needs.
 
 However, not every new terminology requirement requires a [SNOMED CT extension](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+CT+Extension) to be created. Potential extension producers should be aware of situations in which it is beneficial to create an extension, and situations where alternatives may be preferable. The following table provides a summary.
 
@@ -20,9 +20,9 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
 
 **Table 3-1: Purposes and use cases for extensions**
 
-| \*\* Purpose \*\*                                                                                                                                                                                                                                                                         | **Use Case Examples** | **Included Artifacts** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------- |
-| <p><a href="../3%20Purpose/3.1-Add-Terms-in-Languages-and-Dialects_57814993.html"><strong>Translate SNOMED CT</strong></a>****</p><div><figure><img src="../images/57814976.png" alt=""><figcaption><p>* Adding terms used in a local language or dialect</p></figcaption></figure></div> |                       |                        |
+| \*\* Purpose \*\*                                                                                                                                                                                                                                                                                                                          | **Use Case Examples** | **Included Artifacts** |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---------------------- |
+| <p><a href="https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.1-Add-Terms-in-Languages-and-Dialects_57814993.html"><strong>Translate SNOMED CT</strong></a>****</p><div><figure><img src="../images/57814976.png" alt=""><figcaption><p>* Adding terms used in a local language or dialect</p></figcaption></figure></div> |                       |                        |
 
 * Adding terms used by a specific user group, such as patient friendly terms
 
@@ -33,7 +33,7 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
 * Concepts (metadata only)
 * Relationships (metadata only)
 
-[**\*\*\*\*\*\* \*\***](../3%20Purpose/3.2-Add-Content-to-SNOMED-CT_57814979.html)[**Manage content gaps**](../3%20Purpose/3.2-Add-Content-to-SNOMED-CT_57814979.html)\*\*\*\*\*\*
+[**\*\*\*\*\*\* \*\***](https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.2-Add-Content-to-SNOMED-CT_57814979.html)[**Manage content gaps**](https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.2-Add-Content-to-SNOMED-CT_57814979.html)\*\*\*\*\*\*
 
 <figure><img src="../images/57814974.png" alt=""><figcaption><p>* Adding components that are missing in the <a href="https://confluence.ihtsdotools.org/display/DOCGLOSS/International+Edition">International Edition</a></p></figcaption></figure>
 
@@ -48,7 +48,7 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
 * Relationships
 * Language reference sets
 
-\*\*[Maps between SNOMED CT and other code systems](../3%20Purpose/3.3-Map-Between-SNOMED-CT-and-Other-Code-Systems_57814989.html) \*
+\*\*[Maps between SNOMED CT and other code systems](https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.3-Map-Between-SNOMED-CT-and-Other-Code-Systems_57814989.html) \*
 
 |
 
@@ -61,9 +61,9 @@ When a SNOMED CT extension is required, the extension may serve a range of purpo
 * Descriptions (metadata only)
 * Relationships (metadata only)
 
-\*\*\*\*[Configuration of the terminology for specific use cases](../3%20Purpose/3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html) \*\*\*\*
+\*\*\*\*[Configuration of the terminology for specific use cases](https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html) \*\*\*\*
 
-[**\* Specifying groups of components for reporting and analytics**](../3%20Purpose/3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html)
+[**\* Specifying groups of components for reporting and analytics**](https://github.com/IHTSDO/extension-guide/blob/main/3%20Purpose/3.4-Configure-SNOMED-CT-for-Specific-Use-Cases_57814991.html)
 
 |
 
