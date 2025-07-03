@@ -27,8 +27,8 @@ Although this guide is not targeted at _terminology consumers_ , it contains som
 
 This document presents a practical guide to SNOMED CT extensions and is structured as follows:
 
-* [1 Executive Summary](https://github.com/IHTSDO/extension-guide/blob/main/2%20Introduction/1-Executive-Summary_57815431.html) presents the key messages from the document.
-* [2 Introduction](https://github.com/IHTSDO/extension-guide/blob/main/2%20Introduction/2-Introduction_57814995.html) explains the background, purpose, scope, audience and overview of the document.
-* [3 Purpose](https://github.com/IHTSDO/extension-guide/blob/main/2%20Introduction/3-Purpose_57814972.html) introduces the main purposes and key use cases for SNOMED CT extensions.
-* [4 Logical Design](https://github.com/IHTSDO/extension-guide/blob/main/2%20Introduction/4-Logical-Design_57814999.html) describes the logical design of SNOMED CT extensions.
-* [5 Key Steps](https://github.com/IHTSDO/extension-guide/blob/main/2%20Introduction/5-Key-Steps_57815195.html) describes the key steps involved with the creation, distribution and maintenance of an extension. As part of this, the section explains the key principles and best practices for authoring content in an extension.
+* Executive Summary presents the key messages from the document.
+* Introduction explains the background, purpose, scope, audience and overview of the document.
+* Purpose introduces the main purposes and key use cases for SNOMED CT extensions.
+* Logical Design describes the logical design of SNOMED CT extensions.
+* Key Steps describes the key steps involved with the creation, distribution and maintenance of an extension. As part of this, the section explains the key principles and best practices for authoring content in an extension.
