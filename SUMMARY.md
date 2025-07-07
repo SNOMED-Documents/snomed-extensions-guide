@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Extensions Practical Guide](README.md)
+* [SNOMED CT Extensions Guide](README.md)
 * [Executive Summary](<1 executive-summary/README.md>)
 * [Introduction](<2 Introduction/README.md>)
 * [Purpose](<3 Purpose/README.md>)
