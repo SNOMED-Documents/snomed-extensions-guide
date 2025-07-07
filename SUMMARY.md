@@ -4,7 +4,7 @@
 * [Executive Summary](<1 executive-summary/README.md>)
 * [Introduction](<2 Introduction/README.md>)
 * [Purpose](<3 Purpose/README.md>)
-  * [3.1-add-terms-in-languages-and-dialects](<3 Purpose/3.1-add-terms-in-languages-and-dialects.md>)
+  * [Add Terms in Languages and Dialects](<3 Purpose/3.1-add-terms-in-languages-and-dialects.md>)
   * [3.2-add-content-to-snomed-ct](<3 Purpose/3.2-add-content-to-snomed-ct.md>)
   * [3.3-map-between-snomed-ct-and-other-code-systems](<3 Purpose/3.3-map-between-snomed-ct-and-other-code-systems.md>)
   * [3.4 Configure SNOMED CT for Specific Use Cases](<3 Purpose/3.4-configure-snomed-ct-for-specific-use-cases.md>)
