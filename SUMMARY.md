@@ -8,7 +8,7 @@
   * [Add Content to SNOMED CT](<3 Purpose/3.2-add-content-to-snomed-ct.md>)
   * [Map between SNOMED CT and Other Code ystems](<3 Purpose/3.3-map-between-snomed-ct-and-other-code-systems.md>)
   * [Configure SNOMED CT for Specific Use Cases](<3 Purpose/3.4-configure-snomed-ct-for-specific-use-cases.md>)
-* [4 Logical Design](<4 logical-design/README.md>)
+* [Logical Design](<4 logical-design/README.md>)
   * [4.1-namespaces](<4 logical-design/4.1-namespaces.md>)
   * [4.2 modules](<4 logical-design/4.2 modules/README.md>)
     * [4.2.1-module-definition](<4 logical-design/4.2 modules/4.2.1-module-definition.md>)
