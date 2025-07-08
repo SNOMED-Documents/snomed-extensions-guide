@@ -16,7 +16,7 @@ Components and reference sets maintained by Members and Affiliate licensees are 
 
 ## Examples
 
-The table below lists some examples of modules, together with the organization responsible for maintaining and distributing the contents of the module. Note that the namespace identifier (highlighted in red) used in the module identifier refers to the organization who is responsible for that module. (\*1)
+The table below lists some examples of modules, together with the organization responsible for maintaining and distributing the contents of the module. Note that the namespace identifier (highlighted in red) used in the module identifier refers to the organization who is responsible for that module. [<sup>\*1</sup>](#user-content-fn-1)[^1]
 
 Table: Examples of modules
 
@@ -32,5 +32,7 @@ The example above reinforces some key points. Firstly, all components belong to 
 
 ***
 
-| \*1. The module concept may, alternatively, belong to a different module maintained by the same organization. When this is the case, the module will necessarily depend upon the module that contains its identifying concept. It is therefore usually simpler to keep the module concept within the module it identifies. |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <sup>\*1</sup> The module concept may, alternatively, belong to a different module maintained by the same organization. When this is the case, the module will necessarily depend upon the module that contains its identifying concept. It is therefore usually simpler to keep the module concept within the module it identifies. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[^1]: See footnote
