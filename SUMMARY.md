@@ -12,7 +12,7 @@
   * [Namespaces](<4 logical-design/4.1-namespaces.md>)
   * [Modules](<4 logical-design/4.2 modules/README.md>)
     * [Module Definition](<4 logical-design/4.2 modules/4.2.1-module-definition.md>)
-    * [4.2.2-module-dependencies](<4 logical-design/4.2 modules/4.2.2-module-dependencies.md>)
+    * [Module Dependencies](<4 logical-design/4.2 modules/4.2.2-module-dependencies.md>)
   * [4.3 extensions](<4 logical-design/4.3 extensions/README.md>)
     * [4.3.1 Components](<4 logical-design/4.3 extensions/4.3.1 components/README.md>)
       * [4.3.1.1-common-attributes](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.1-common-attributes.md>)
