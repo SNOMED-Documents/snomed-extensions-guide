@@ -14,7 +14,7 @@
     * [Module Definition](<4 logical-design/4.2 modules/4.2.1-module-definition.md>)
     * [Module Dependencies](<4 logical-design/4.2 modules/4.2.2-module-dependencies.md>)
   * [Extensions](<4 logical-design/4.3 extensions/README.md>)
-    * [4.3.1 Components](<4 logical-design/4.3 extensions/4.3.1 components/README.md>)
+    * [Components](<4 logical-design/4.3 extensions/4.3.1 components/README.md>)
       * [4.3.1.1-common-attributes](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.1-common-attributes.md>)
       * [4.3.1.2-concepts](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.2-concepts.md>)
       * [4.3.1.3-descriptions](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.3-descriptions.md>)
