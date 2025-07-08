@@ -1,15 +1,17 @@
-# 4.3 Extensions
+# Extensions
+
+## Extensions
 
 A SNOMED CT extension is a set of components and reference set members that add to the SNOMED CT International Edition. An extension is created, structured, maintained and distributed in accordance with SNOMED CT specifications and guidelines. Unlike, the International Edition an extension is not a standalone terminology. The content in an extension depends on the SNOMED CT International Edition, and must be used together with the International Edition and any other extension module on which it depends.
 
-# Modules in an Extension
+## Modules in an Extension
 
-As explained in [4.2 Modules](4.2-Modules_57815037.html), every extension must contain at least one [module](4.2-Modules_57815037.html), and all content in an extension must belong to one of its extension modules. More than one module can be created within the same extension, if there is a business requirement to maintain or publish sets of components separately. The set of module concepts that are maintained by the same extension producer are grouped together in a single module subhierarchy. [Figure 4.3-1](https://confluence.ihtsdotools.org/display/DOCEXTPG/4.3+Extensions#Figure-screenshot-of-the-module-hierarchy-from-uk-edition-20170401 "Module hierarchy from 20170401 UK Edition") below shows the module subhierarchy for the UK's National Release Center from the 20170401 UK Edition.
+As explained in modules, every extension must contain at least one module, and all content in an extension must belong to one of its extension modules. More than one module can be created within the same extension, if there is a business requirement to maintain or publish sets of components separately. The set of module concepts that are maintained by the same extension producer are grouped together in a single module subhierarchy. The figure below shows the module subhierarchy for the UK's National Release Center from the 20170401 UK Edition.
 
-<figure><img src="../../images/57815070.png" alt="" title=""><figcaption><p>Figure 4.3-1: Module hierarchy from 20170401 UK Edition</p></figcaption></figure>
+<figure><img src="../../images/57815070.png" alt=""><figcaption><p>Module hierarchy from 20170401 UK Edition</p></figcaption></figure>
 
-Please note that some module concepts in the subhierarchy (e.g. [ | United Kingdom maintained clinical module (core metadata concept)|](http://snomed.info/id/999003121000000100 "999003121000000100 | United Kingdom maintained clinical module \(core metadata concept\) |") )serve as grouper concepts, which are never actually used as the moduleId of any content. The use of separate modules in the UK extension allow them to maintain and publish separate editions that include different content (e.g. with and without the drug extension). Using separate modules also allows module-based filters to be applied when searching content for a specific use case. 
+Please note that some module concepts in the subhierarchy (e.g. | United Kingdom maintained clinical module (core metadata concept)| )serve as grouper concepts, which are never actually used as the moduleId of any content. The use of separate modules in the UK extension allow them to maintain and publish separate editions that include different content (e.g. with and without the drug extension). Using separate modules also allows module-based filters to be applied when searching content for a specific use case.
 
-# Extension Versions
+## Extension Versions
 
-A specific version of an extension can be referred to using the date on which the extension was published. Versioned extension modules can be identified using the SNOMED CT URI standard format: http://snomed.info/module/{sctid}/time/{timestamp}. For more information, please refer to [2.4 URIs for Modules](https://confluence.ihtsdotools.org/display/WIPURI/2.4+URIs+for+Modules) and [Versioned Editions](4.4-Editions_57815135.html#id-4.4Editions-VersionedEdition).
+A specific version of an extension can be referred to using the date on which the extension was published. Versioned extension modules can be identified using the SNOMED CT URI standard format: http://snomed.info/module/{sctid}/time/{timestamp}. For more information, please refer to 2.4 [URIs for Modules](https://app.gitbook.com/s/kgrE9Yh9vMDqL5ThuXjH/2-snomed-ct-uri-space/2.8-uris-for-unpublished-content) and [Versioned Editions.](<../4.4 editions/>)
