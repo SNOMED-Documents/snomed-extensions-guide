@@ -16,7 +16,7 @@
   * [Extensions](<4 logical-design/4.3 extensions/README.md>)
     * [Components](<4 logical-design/4.3 extensions/4.3.1 components/README.md>)
       * [Common Attributes](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.1-common-attributes.md>)
-      * [4.3.1.2-concepts](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.2-concepts.md>)
+      * [Concepts](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.2-concepts.md>)
       * [4.3.1.3-descriptions](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.3-descriptions.md>)
       * [4.3.1.4-relationships](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.4-relationships.md>)
     * [4.3.2 Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/README.md>)
