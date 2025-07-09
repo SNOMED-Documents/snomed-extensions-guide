@@ -23,7 +23,7 @@
       * [Common Attributes](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.1-common-attributes.md>)
       * [Reference Set Example](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.2-reference-set-example.md>)
       * [Reference Set Member Example](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.3-reference-set-member-example.md>)
-      * [4.3.2.4 Essential Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/README.md>)
+      * [Essential Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/README.md>)
         * [4.3.2.4.1-language-reference-set](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/4.3.2.4.1-language-reference-set.md>)
         * [4.3.2.4.2-module-dependency-reference-set](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/4.3.2.4.2-module-dependency-reference-set.md>)
   * [4.4 editions](<4 logical-design/4.4 editions/README.md>)
