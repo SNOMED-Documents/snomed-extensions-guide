@@ -20,7 +20,7 @@
       * [Descriptions](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.3-descriptions.md>)
       * [Relationships](<4 logical-design/4.3 extensions/4.3.1 components/4.3.1.4-relationships.md>)
     * [Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/README.md>)
-      * [4.3.2.1-common-attributes](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.1-common-attributes.md>)
+      * [Common Attributes](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.1-common-attributes.md>)
       * [4.3.2.2-reference-set-example](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.2-reference-set-example.md>)
       * [4.3.2.3-reference-set-member-example](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.3-reference-set-member-example.md>)
       * [4.3.2.4 Essential Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/README.md>)
