@@ -29,7 +29,7 @@
   * [Editions](<4 logical-design/4.4 editions/README.md>)
     * [National Editions](<4 logical-design/4.4 editions/4.4.1-national-editions.md>)
     * [Edition URI Examples](<4 logical-design/4.4 editions/4.4.2-edition-uri-examples.md>)
-  * [4.5 Release Packages](<4 logical-design/4.5-release-packages.md>)
+  * [Release Packages](<4 logical-design/4.5-release-packages.md>)
 * [5 Key Steps](<5 key-steps/README.md>)
   * [5.1 Planning](<5 key-steps/5.1-planning.md>)
   * [5.2 Preparation](<5 key-steps/5.2 preparation/README.md>)
