@@ -26,7 +26,7 @@
       * [Essential Reference Sets](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/README.md>)
         * [Language Reference Set](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/4.3.2.4.1-language-reference-set.md>)
         * [Module Dependency Reference Set](<4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/4.3.2.4.2-module-dependency-reference-set.md>)
-  * [4.4 editions](<4 logical-design/4.4 editions/README.md>)
+  * [Editions](<4 logical-design/4.4 editions/README.md>)
     * [4.4.1-national-editions](<4 logical-design/4.4 editions/4.4.1-national-editions.md>)
     * [4.4.2 Edition URI Examples](<4 logical-design/4.4 editions/4.4.2-edition-uri-examples.md>)
   * [4.5 Release Packages](<4 logical-design/4.5-release-packages.md>)
