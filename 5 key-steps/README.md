@@ -26,3 +26,10 @@ These key phases and steps in the lifecycle of an extension are illustrated belo
 Footnotes Ref | Notes  
 ---|---  
 [1](https://confluence.ihtsdotools.org/display/DOCEXTPG/5+Key+Steps#FootnoteMarker1-0 "Footnote: Click to return to reference in text") |  In practice, classification of an extension module requires it to be combined with the all the modules on which it depends, including the International Edition modules. 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5%20Key%20Steps" class="button primary">Provide Feedback</a>

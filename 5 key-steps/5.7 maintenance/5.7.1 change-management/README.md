@@ -11,3 +11,10 @@ The change management process can be divided into three distinct phases:
 After change management has been performed, it is important that thorough [review and validation](5.5-Review-and-Validation_57815386.html) of the resulting extension is performed.
 
 In the following sections we discuss the three phases of change management.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5.7.1%20Change%20Management" class="button primary">Provide Feedback</a>

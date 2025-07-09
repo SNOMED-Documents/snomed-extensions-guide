@@ -95,3 +95,10 @@ Table 5.3-2: Reasons for requesting content to be added to the International Edi
 | Missing synonyms              | A concept in the International Edition that is missing one or more widely used synonymous terms                                                       |
 
 If a request is deemed to have high priority, it should result in action in the next release cycle. However, requests constituting a significant change which impacts other content may take longer to implement. If a request is declined, a reason and explanation are provided to the requester, who may choose to appeal the decision to the Head of Terminology. For more information about the CRS, please refer to the [CRS User Guide](http://snomed.org/CRS-Guide).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5.3%20assessing-requests" class="button primary">Provide Feedback</a>

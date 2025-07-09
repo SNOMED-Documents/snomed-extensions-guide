@@ -42,3 +42,10 @@ If a situation arises in which an extension has two equally dependent modules, t
 
 <figure><img src="../../images/59343366.png" alt="" title=""><figcaption><p>Figure 4.4-2: Creating a new focus module to represent a national edition</p></figcaption></figure>
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=4.4%20Editions" class="button primary">Provide Feedback</a>

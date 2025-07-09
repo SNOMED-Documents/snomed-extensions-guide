@@ -10,3 +10,10 @@ The following subsections present logical design rules and considerations for co
 * Relationships
 
 For information about the process of authoring extension components, please refer to [Authoring](<../../../5 key-steps/5.4 authoring/>). For a full list of RF2 component tables and their attributes, please refer to the [SNOMED CT Release File Specifications](https://app.gitbook.com/o/h8Z6qGxuQrzM9vbx5bPT/s/irKbJsZG57nSWZA4GT0M/).&#x20;
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=Components" class="button primary">Provide Feedback</a>

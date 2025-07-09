@@ -32,3 +32,10 @@ This document presents a practical guide to SNOMED CT extensions and is structur
 * Purpose introduces the main purposes and key use cases for SNOMED CT extensions.
 * Logical Design describes the logical design of SNOMED CT extensions.
 * Key Steps describes the key steps involved with the creation, distribution and maintenance of an extension. As part of this, the section explains the key principles and best practices for authoring content in an extension.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=Introduction" class="button primary">Provide Feedback</a>

@@ -16,3 +16,10 @@ These two maintenance tasks are explained further in [5.7.2 Change Requests](5.7
 Regular updates to SNOMED CT are essential to satisfy emerging user requirements and to improve the quality of SNOMED CT itself. An extension producer must be aware that changes in the International Edition (or another extension on which the producer's extension depends) may have an impact on their extension. Therefore, the extension should be reconciled with the International Edition (and other associated extensions) every time a new release becomes available.
 
 The International Edition of SNOMED CT is currently released monthly. Prior to each release of the International Edition, National Release Centres have an opportunity to evaluate the pre-production releases and plan their extension reconciliation strategy. Once the International Edition has been officially released, reconciliation of the extensions based on the new release can begin. Once complete, it is recommended that extension producers allow plenty of time for an alpha and/or beta version of their extension to be validated by their users before the new release is officially published. See [5.6.1.4 Preproduction Releases](5.6.1.4-Preproduction-Releases_57815339.html) for more information.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5.7%20Maintenance" class="button primary">Provide Feedback</a>
