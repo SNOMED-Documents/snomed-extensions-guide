@@ -36,7 +36,7 @@
     * [Tooling Requirements](<5 key-steps/5.2 preparation/5.2.1-tooling-requirements.md>)
     * [Generating Identifiers](<5 key-steps/5.2 preparation/5.2.2-generating-identifiers.md>)
   * [Assessing Requests](<5 key-steps/5.3 assessing-requests/README.md>)
-    * [5.3.1-considerations-in-assessing-requests](<5 key-steps/5.3 assessing-requests/5.3.1-considerations-in-assessing-requests.md>)
+    * [Considerations In Assessing Requests](<5 key-steps/5.3 assessing-requests/5.3.1-considerations-in-assessing-requests.md>)
     * [5.3.2 Constraints on Concept Requests](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/README.md>)
       * [5.3.2.1-top-level-concepts-and-clinical-concepts](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.1-top-level-concepts-and-clinical-concepts.md>)
       * [5.3.2.2 model-metadata-concept-hierarchies](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/README.md>)
