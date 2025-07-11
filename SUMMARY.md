@@ -41,7 +41,7 @@
       * [Top Level Concepts and Clinical Concepts](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.1-top-level-concepts-and-clinical-concepts.md>)
       * [Model Metadata Concept Hierarchies](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/README.md>)
         * [Core Metadata Hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.1-core-metadata-hierarchy.md>)
-        * [5.3.2.2.2-foundation-metadata-concept-hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.2-foundation-metadata-concept-hierarchy.md>)
+        * [Foundation Metadata Concept Hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.2-foundation-metadata-concept-hierarchy.md>)
         * [5.3.2.2.3-linkage-concept-hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.3-linkage-concept-hierarchy.md>)
         * [5.3.2.2.4-namespaces](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.4-namespaces.md>)
     * [5.3.3 Interim Content Additions](<5 key-steps/5.3 assessing-requests/5.3.3-interim-content-additions.md>)
