@@ -1,48 +1,31 @@
-# 5.3.2.2 Model Metadata Concept Hierarchies
+# Model Metadata Concept Hierarchies
 
-# Core Metadata Concept
+## Core Metadata Concept
 
-**Hierarchy**|  [ 900000000000441003 | SNOMED CT Model Component|](http://snomed.info/id/900000000000441003 "900000000000441003 | SNOMED CT Model Component |")  
----|---  
-**Purpose**|  This concept is the supertype for all SNOMED CT metadata.  
-****Concept Addition Rules**  
-**|  No new subtype children may be added in an extension.Please refer to the following pages for guidance on the addition of subtype descendants.  
-  
-  
-All SNOMED CT metadata concepts are subtypes  of [ 900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003 "900000000000441003 | SNOMED CT Model Component \(metadata\) |") and include concepts, descriptions and relationships that are used to describe or provide additional information about SNOMED CT content and reference sets.
+| **Hierarchy**              | [900000000000441003 \| SNOMED CT Model Component\|](http://snomed.info/id/900000000000441003)                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Purpose**                | This concept is the supertype for all SNOMED CT metadata.                                                                                                   |
+| **Concept Addition Rules** | <p>No new subtype children may be added in an extension.</p><p>Please refer to the following pages for guidance on the addition of subtype descendants.</p> |
 
-[Table 5.3.2.2-1](https://confluence.ihtsdotools.org/display/DOCEXTPG/5.3.2.2+Model+Metadata+Concept+Hierarchies#Table--snomed-ct-model-component-or-metadata-sub-hierarchies-and-their-intended-purpose "Subhierarchies of |SNOMED CT Model Component| and their intended purpose") below lists the subtypes of the [ 900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003 "900000000000441003 | SNOMED CT Model Component \(metadata\) |") hierarchy, and describes the content within these subhierarchies. 
+All SNOMED CT metadata concepts are subtypes of [900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003) and include concepts, descriptions and relationships that are used to describe or provide additional information about SNOMED CT content and reference sets.
 
-Table 5.3.2.2-1: Subhierarchies of |SNOMED CT Model Component| and their intended purpose
+The table below lists the subtypes of the [900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003) hierarchy, and describes the content within these subhierarchies.
 
-Subhierarchy| Purpose| Link to More Information  
----|---|---  
-**Core metadata concept (core metadata concept)**|  Provides structural information required to support International Edition data. This supporting information includes sets of enumerated values that apply to attributes of concepts, descriptions and relationships.| [5.3.2.2.1 Core Metadata Hierarchy](5.3.2.2.1-Core-Metadata-Hierarchy_59342969.html)  
-**Foundation metadata concept (foundation metadata concept)**|  Provides supporting metadata and structural information for _Reference_  _Sets_.| [5.3.2.2.2 Foundation Metadata Concept Hierarchy](5.3.2.2.2-Foundation-Metadata-Concept-Hierarchy_59342971.html)  
-**Linkage concept (linkage concept)**|  Links two or more concepts together to express compositional meanings. All  _concept_ codes that can be used as a  _Relationship Type_ are included under [ | Linkage concept|](http://snomed.info/id/106237007 "106237007 | Linkage concept |") . The attributes that are approved for use are the  _Concept Model Attributes_.| [5.3.2.2.3 Linkage Concept Hierarchy](5.3.2.2.3-Linkage-Concept-Hierarchy_59342973.html)  
-**Namespace concept (namespace concept)**|  Contains _concepts_ that represent an assigned  _Extension_  _namespace identifier_. | [5.3.2.2.4 Namespaces](5.3.2.2.4-Namespaces_59342975.html)  
-  
-#### OWL metadata concept (OWL metadata concept)
+**Table: Subhierarchies of |SNOMED CT Model Component| and their intended purpose**
 
-| Contains  _concepts_ that are used in
+| Subhierarchy                                                  | Purpose                                                                                                                                                                                                                                                                                                                                                           | Link to More Information                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core metadata concept (core metadata concept)**             | Provides structural information required to support International Edition data. This supporting information includes sets of enumerated values that apply to attributes of concepts, descriptions and relationships.                                                                                                                                              | [Core Metadata Hierarchy](5.3.2.2.1-core-metadata-hierarchy.md)                                                                                                                                                                                                                                                                                                                               |
+| **Foundation metadata concept (foundation metadata concept)** | Provides supporting metadata and structural information for _Reference_ _Sets_.                                                                                                                                                                                                                                                                                   | [Foundation Metadata Concept Hierarchy](5.3.2.2.2-foundation-metadata-concept-hierarchy.md)                                                                                                                                                                                                                                                                                                   |
+| **Linkage concept (linkage concept)**                         | Links two or more concepts together to express compositional meanings. All _concept_ codes that can be used as a _Relationship Type_ are included under \[                                                                                                                                                                                                        | [Linkage Concept Hierarchy](5.3.2.2.3-linkage-concept-hierarchy.md)                                                                                                                                                                                                                                                                                                                           |
+| **Namespace concept (namespace concept)**                     | Contains _concepts_ that represent an assigned _Extension_ _namespace identifier_.                                                                                                                                                                                                                                                                                | [Namespaces](5.3.2.2.4-namespaces.md)                                                                                                                                                                                                                                                                                                                                                         |
+| **OWL metadata concept (OWL metadata concept)**               | <p></p><p>Contains <em>concepts</em> that are used in</p><ul><li><em>OWL ontology reference set</em> (OWL ontology header (OWL metadata concept) and OWL ontology namespace (OWL metadata concept))</li><li><em>OWL axiom reference set</em> (Disjoint classes axiom (OWL metadata concept) and General concept inclusion axiom (OWL metadata concept))</li></ul> | <p><a href="https://app.gitbook.com/s/UVgNFMSypqSsi48DpFEe/2-design-considerations-for-owl-reference-sets/2.3-content-for-the-owl-ontology-refset">Content for the OWL Ontology Refset</a></p><p></p><p><a href="https://app.gitbook.com/s/UVgNFMSypqSsi48DpFEe/2-design-considerations-for-owl-reference-sets/2.4-content-for-the-owl-axiom-refset">Content for the OWL Axiom Refset</a></p> |
 
-  *  _OWL ontology reference set_ (OWL ontology header (OWL metadata concept) and OWL ontology namespace (OWL metadata concept))
-  * _OWL axiom reference set_ (Disjoint classes axiom (OWL metadata concept) and General concept inclusion axiom (OWL metadata concept))
+The following pages provide information about the subtypes of [900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003) . Each page includes tables which describe the purpose of the content within one of the sub-hierarchies, with examples from the International Edition. The tables also state rules about the additions that are permitted in an extension to the respective subhierarchy. Where additions are permitted to the subhierarchy, notes are added on practical uses cases for addition, potential problems that may arise from these additions and any other relevant considerations.
 
-|   
-[2.3. Content for the OWL Ontology Refset](https://confluence.ihtsdotools.org/display/DOCOWL/2.3.+Content+for+the+OWL+Ontology+Refset)[2.4. Content for the OWL Axiom Refset](https://confluence.ihtsdotools.org/display/DOCOWL/2.4.+Content+for+the+OWL+Axiom+Refset)  
-  
-The following pages provide information about the subtypes of [ 900000000000441003 | SNOMED CT Model Component (metadata)|](http://snomed.info/id/900000000000441003 "900000000000441003 | SNOMED CT Model Component \(metadata\) |") . Each page includes tables which describe the purpose of the content within one of the sub-hierarchies, with examples from the International Edition. The tables also state rules about the additions that are permitted in an extension to the respective subhierarchy. Where additions are permitted to the subheirarchy, notes are added on practical uses cases for addition, potential problems that may arise from these additions and any other relevant considerations.
+* [Core Metadata Hierarchy](5.3.2.2.1-core-metadata-hierarchy.md)
+* [Foundation Metadata Concept Hierarchy](5.3.2.2.2-foundation-metadata-concept-hierarchy.md)
+* [Linkage Concept Hierarchy](5.3.2.2.3-linkage-concept-hierarchy.md)
+* [Namespaces](5.3.2.2.4-namespaces.md)
 
-  * [5.3.2.2.1 Core Metadata Hierarchy](5.3.2.2.1-Core-Metadata-Hierarchy_59342969.html)
-  * [5.3.2.2.2 Foundation Metadata Concept Hierarchy](5.3.2.2.2-Foundation-Metadata-Concept-Hierarchy_59342971.html)
-  * [5.3.2.2.3 Linkage Concept Hierarchy](5.3.2.2.3-Linkage-Concept-Hierarchy_59342973.html)
-  * [5.3.2.2.4 Namespaces](5.3.2.2.4-Namespaces_59342975.html)
-
-
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5.3.2.2%20Model%20Metadata%20Concept%20Hierarchies" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=5.3.2.2%20Model%20Metadata%20Concept%20Hierarchies" class="button primary">Provide Feedback</a>
