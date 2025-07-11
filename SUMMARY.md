@@ -43,7 +43,7 @@
         * [Core Metadata Hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.1-core-metadata-hierarchy.md>)
         * [Foundation Metadata Concept Hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.2-foundation-metadata-concept-hierarchy.md>)
         * [Linkage Concept Hierarchy](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.3-linkage-concept-hierarchy.md>)
-        * [5.3.2.2.4-namespaces](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.4-namespaces.md>)
+        * [Namespaces](<5 key-steps/5.3 assessing-requests/5.3.2 constraints-on-concept-requests/5.3.2.2 model-metadata-concept-hierarchies/5.3.2.2.4-namespaces.md>)
     * [5.3.3 Interim Content Additions](<5 key-steps/5.3 assessing-requests/5.3.3-interim-content-additions.md>)
     * [5.3.4 Change Request Reporting Structure](<5 key-steps/5.3 assessing-requests/5.3.4-change-request-reporting-structure.md>)
   * [5.4 Authoring](<5 key-steps/5.4 authoring/README.md>)
