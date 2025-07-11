@@ -19,6 +19,6 @@ Extension producers should assign all new extension content to a module which th
 
 <figure><img src="../../../images/64264453.png" alt=""><figcaption><p>Figure 5.4.1-1: Examples of correct and incorrect module assignment in an extension</p></figcaption></figure>
 
-For information on how to move content from one module to another, please refer to [5.4.1.1 Promotion and Demotion](../../../5%20key-steps/5.4%20authoring/5.4.1%20general-authoring-principles/5.4.1.1-Promotion-and-Demotion_64264454.html).
+For information on how to move content from one module to another, please refer to [Promotion and Demotion.](5.4.1.1-promotion-and-demotion.md)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=5.4.1%20General%20Authoring%20Principles" class="button primary">Provide Feedback</a>
