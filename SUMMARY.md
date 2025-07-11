@@ -49,7 +49,7 @@
   * [Authoring](<5 key-steps/5.4 authoring/README.md>)
     * [General Authoring Principles](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/README.md>)
       * [Promotion and Demotion](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.1-promotion-and-demotion.md>)
-      * [5.4.1.2 Concept Promotion Release Files](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.2-concept-promotion-release-files.md>)
+      * [Concept Promotion Release Files](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.2-concept-promotion-release-files.md>)
       * [5.4.1.3 Management of Inactivated International Concepts within an Extension](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.3-management-of-inactivated-international-concepts-within-an-extension.md>)
     * [5.4.2 Authoring Concepts](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/README.md>)
       * [5.4.2.1-add-concept-in-an-extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.1-add-concept-in-an-extension.md>)
