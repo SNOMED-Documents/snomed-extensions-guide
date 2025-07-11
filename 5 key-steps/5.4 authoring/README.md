@@ -1,4 +1,4 @@
-# 5.4 Authoring
+# Authoring
 
 Authoring is the process by which content is created in an extension in accordance with a set of authoring principles. These principles ensure the quality of content and referential integrity between content in the extension and content in the International Edition. It is the responsibility of an extension producer to author concepts, descriptions and relationships in the extension while maintaining the aforementioned quality and referential integrity.
 
@@ -6,19 +6,11 @@ Terminology and extension producers need tools to assist with the authoring proc
 
 The following sections present key principles for authoring components and reference sets within an extension.
 
-  * [5.4.1 General Authoring Principles](5.4.1-General-Authoring-Principles_64264452.html)
-  * [5.4.2 Authoring Concepts](5.4.2-Authoring-Concepts_57815214.html)
-  * [5.4.3 Authoring Descriptions](5.4.3-Authoring-Descriptions_57815259.html)
-  * [5.4.4 Authoring Relationships](5.4.4-Authoring-Relationships_57815272.html)
-  * [5.4.5 Authoring Reference Sets](5.4.5-Authoring-Reference-Sets_57815293.html)
-  * [5.4.6 Authoring Reference Set Members](5.4.6-Authoring-Reference-Set-Members_57815298.html)
+* [General Authoring Principles](<5.4.1 general-authoring-principles/>)
+* [Authoring Concepts](<5.4.2 authoring-concepts/>)
+* [Authoring Descriptions](<5.4.3 authoring-descriptions/>)
+* [Authoring Relationships](<5.4.4 authoring-relationships/>)
+* [Authoring Reference Sets](<5.4.5 authoring-reference-sets/>)
+* [Authoring Reference Set Members](<5.4.6 authoring-reference-set-members/>)
 
-  
-
-
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=5.4%20Authoring" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=5.4%20Authoring" class="button primary">Provide Feedback</a>
