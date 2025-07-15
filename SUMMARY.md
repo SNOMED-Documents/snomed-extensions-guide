@@ -52,7 +52,7 @@
       * [Concept Promotion Release Files](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.2-concept-promotion-release-files.md>)
       * [Management of Inactivated International Concepts within an Extension](<5 key-steps/5.4 authoring/5.4.1 general-authoring-principles/5.4.1.3-management-of-inactivated-international-concepts-within-an-extension.md>)
     * [Authoring Concepts](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/README.md>)
-      * [5.4.2.1-add-concept-in-an-extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.1-add-concept-in-an-extension.md>)
+      * [Add Concept in an Extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.1-add-concept-in-an-extension.md>)
       * [5.4.2.2-modify-concept-in-an-extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.2-modify-concept-in-an-extension.md>)
       * [5.4.2.3-inactivate-concept-in-an-extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.3-inactivate-concept-in-an-extension.md>)
     * [5.4.3 Authoring Descriptions](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/README.md>)
