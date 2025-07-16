@@ -56,7 +56,7 @@
       * [Modify-concept-in-an-extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.2-modify-concept-in-an-extension.md>)
       * [Inactivate Concept in an Extension](<5 key-steps/5.4 authoring/5.4.2 authoring-concepts/5.4.2.3-inactivate-concept-in-an-extension.md>)
     * [Authoring Descriptions](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/README.md>)
-      * [5.4.3.1-add-description-in-an-extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.1-add-description-in-an-extension.md>)
+      * [Add Description in an Extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.1-add-description-in-an-extension.md>)
       * [5.4.3.2-modify-description-in-an-extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.2-modify-description-in-an-extension.md>)
       * [5.4.3.3-inactivate-description-in-an-extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.3-inactivate-description-in-an-extension.md>)
     * [5.4.4 Authoring Relationships](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/README.md>)
