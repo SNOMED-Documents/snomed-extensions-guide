@@ -60,7 +60,7 @@
       * [Modify Description in an Extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.2-modify-description-in-an-extension.md>)
       * [Inactivate Description in an Extension](<5 key-steps/5.4 authoring/5.4.3 authoring-descriptions/5.4.3.3-inactivate-description-in-an-extension.md>)
     * [Authoring Relationships](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/README.md>)
-      * [5.4.4.1-add-relationship-in-an-extension](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/5.4.4.1-add-relationship-in-an-extension.md>)
+      * [Add Relationship in an Extension](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/5.4.4.1-add-relationship-in-an-extension.md>)
       * [5.4.4.2-modify-relationship-in-an-extension](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/5.4.4.2-modify-relationship-in-an-extension.md>)
       * [5.4.4.3-inactivate-relationship-in-an-extension](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/5.4.4.3-inactivate-relationship-in-an-extension.md>)
     * [5.4.5 Authoring Reference Sets](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/README.md>)
