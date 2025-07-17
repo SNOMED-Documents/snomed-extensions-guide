@@ -68,7 +68,7 @@
       * [Modify Reference Set in an Extension](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.2-modify-reference-set-in-an-extension.md>)
       * [End Support for a Reference Set](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.3-end-support-for-a-reference-set.md>)
     * [Authoring Reference Set Members](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/README.md>)
-      * [5.4.6.1-add-members-to-a-reference-set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.1-add-members-to-a-reference-set.md>)
+      * [Add Members to a Reference Set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.1-add-members-to-a-reference-set.md>)
       * [5.4.6.2-modify-members-of-a-reference-set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.2-modify-members-of-a-reference-set.md>)
       * [5.4.6.3-remove-members-from-a-reference-set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.3-remove-members-from-a-reference-set.md>)
   * [5.5 Review and Validation](<5 key-steps/5.5 review-and-validation/README.md>)
