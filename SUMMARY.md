@@ -73,7 +73,7 @@
       * [Remove Members from a Reference set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.3-remove-members-from-a-reference-set.md>)
   * [Review and Validation](<5 key-steps/5.5 review-and-validation/README.md>)
     * [Validation During Authoring](<5 key-steps/5.5 review-and-validation/5.5.1-validation-during-authoring.md>)
-    * [5.5.2-post-authoring-review](<5 key-steps/5.5 review-and-validation/5.5.2-post-authoring-review.md>)
+    * [Post Authoring Review](<5 key-steps/5.5 review-and-validation/5.5.2-post-authoring-review.md>)
     * [5.5.3 Pre-release Validation](<5 key-steps/5.5 review-and-validation/5.5.3-pre-release-validation.md>)
   * [5.6 Distribution](<5 key-steps/5.6 distribution/README.md>)
     * [5.6.1 Preparing for Distribution](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/README.md>)
