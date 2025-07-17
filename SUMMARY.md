@@ -75,7 +75,7 @@
     * [Validation During Authoring](<5 key-steps/5.5 review-and-validation/5.5.1-validation-during-authoring.md>)
     * [Post Authoring Review](<5 key-steps/5.5 review-and-validation/5.5.2-post-authoring-review.md>)
     * [Pre-release Validation](<5 key-steps/5.5 review-and-validation/5.5.3-pre-release-validation.md>)
-  * [5.6 Distribution](<5 key-steps/5.6 distribution/README.md>)
+  * [Distribution](<5 key-steps/5.6 distribution/README.md>)
     * [5.6.1 Preparing for Distribution](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/README.md>)
       * [5.6.1.1-classifying-an-edition](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.1-classifying-an-edition.md>)
       * [5.6.1.2 Packaging and File Naming](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.2-packaging-and-file-naming.md>)
