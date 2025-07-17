@@ -65,7 +65,7 @@
       * [Inactivate Relationship in an Extension](<5 key-steps/5.4 authoring/5.4.4 authoring-relationships/5.4.4.3-inactivate-relationship-in-an-extension.md>)
     * [Authoring Reference Sets](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/README.md>)
       * [Create New Reference Set in an xtension](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.1-create-new-reference-set-in-an-extension.md>)
-      * [5.4.5.2-modify-reference-set-in-an-extension](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.2-modify-reference-set-in-an-extension.md>)
+      * [Modify Reference Set in an Extension](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.2-modify-reference-set-in-an-extension.md>)
       * [5.4.5.3-end-support-for-a-reference-set](<5 key-steps/5.4 authoring/5.4.5 authoring-reference-sets/5.4.5.3-end-support-for-a-reference-set.md>)
     * [5.4.6 Authoring Reference Set Members](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/README.md>)
       * [5.4.6.1-add-members-to-a-reference-set](<5 key-steps/5.4 authoring/5.4.6 authoring-reference-set-members/5.4.6.1-add-members-to-a-reference-set.md>)
