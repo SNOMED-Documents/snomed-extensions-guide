@@ -77,7 +77,7 @@
     * [Pre-release Validation](<5 key-steps/5.5 review-and-validation/5.5.3-pre-release-validation.md>)
   * [Distribution](<5 key-steps/5.6 distribution/README.md>)
     * [Preparing for Distribution](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/README.md>)
-      * [5.6.1.1-classifying-an-edition](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.1-classifying-an-edition.md>)
+      * [Classifying an Edition](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.1-classifying-an-edition.md>)
       * [5.6.1.2 Packaging and File Naming](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.2-packaging-and-file-naming.md>)
       * [5.6.1.3 Release Validation](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.3-release-validation.md>)
       * [5.6.1.4 Preproduction Releases](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.4-preproduction-releases.md>)
