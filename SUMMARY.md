@@ -85,7 +85,7 @@
     * [Implementation Guidance](<5 key-steps/5.6 distribution/5.6.3-implementation-guidance.md>)
   * [Maintenance](<5 key-steps/5.7 maintenance/README.md>)
     * [Change Requests](<5 key-steps/5.7 maintenance/5.7.2-change-requests.md>)
-    * [5.7.1 Change Management](<5 key-steps/5.7 maintenance/5.7.1 change-management/README.md>)
+    * [Change Management](<5 key-steps/5.7 maintenance/5.7.1 change-management/README.md>)
       * [5.7.1.1 Identifying Changes](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.1-identifying-changes.md>)
       * [5.7.1.2 Assessing Change Impact](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.2-assessing-change-impact.md>)
       * [5.7.1.3-updating-extension](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.3-updating-extension.md>)
