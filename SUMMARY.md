@@ -88,6 +88,6 @@
     * [Change Management](<5 key-steps/5.7 maintenance/5.7.1 change-management/README.md>)
       * [Identifying Changes](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.1-identifying-changes.md>)
       * [Assessing Change Impact](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.2-assessing-change-impact.md>)
-      * [5.7.1.3-updating-extension](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.3-updating-extension.md>)
+      * [Updating Extension](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.3-updating-extension.md>)
 * [Previous Versions](previous-versions.md)
 * [Recent Updates](recent-updates.md)
