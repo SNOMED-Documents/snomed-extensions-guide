@@ -83,7 +83,7 @@
       * [Preproduction Releases](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.4-preproduction-releases.md>)
     * [Distribution Approaches](<5 key-steps/5.6 distribution/5.6.2-distribution-approaches.md>)
     * [Implementation Guidance](<5 key-steps/5.6 distribution/5.6.3-implementation-guidance.md>)
-  * [5.7 maintenance](<5 key-steps/5.7 maintenance/README.md>)
+  * [Maintenance](<5 key-steps/5.7 maintenance/README.md>)
     * [5.7.2 Change Requests](<5 key-steps/5.7 maintenance/5.7.2-change-requests.md>)
     * [5.7.1 Change Management](<5 key-steps/5.7 maintenance/5.7.1 change-management/README.md>)
       * [5.7.1.1 Identifying Changes](<5 key-steps/5.7 maintenance/5.7.1 change-management/5.7.1.1-identifying-changes.md>)
