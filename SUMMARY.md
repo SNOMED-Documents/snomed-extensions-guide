@@ -81,7 +81,7 @@
       * [Packaging and File Naming](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.2-packaging-and-file-naming.md>)
       * [Release Validation](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.3-release-validation.md>)
       * [Preproduction Releases](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.4-preproduction-releases.md>)
-    * [5.6.2-distribution-approaches](<5 key-steps/5.6 distribution/5.6.2-distribution-approaches.md>)
+    * [Distribution Approaches](<5 key-steps/5.6 distribution/5.6.2-distribution-approaches.md>)
     * [5.6.3 Implementation Guidance](<5 key-steps/5.6 distribution/5.6.3-implementation-guidance.md>)
   * [5.7 maintenance](<5 key-steps/5.7 maintenance/README.md>)
     * [5.7.2 Change Requests](<5 key-steps/5.7 maintenance/5.7.2-change-requests.md>)
