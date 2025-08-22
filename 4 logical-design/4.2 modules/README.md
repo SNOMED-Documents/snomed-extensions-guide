@@ -1,7 +1,5 @@
 # Modules
 
-## Modules
-
 In SNOMED CT, modules are used to organize content for maintenance and publication purposes. All concepts, descriptions, relationships, and reference set members must belong to a module. When a module is published, as part of a release package, all concepts, descriptions, relationships and reference sets that belong to that module must be published together. According to the logical design, this association between a component or reference set member and its associated module is made using the _moduleId_ attribute. The moduleId attribute refers to a concept that represents and names the module in which a component or reference set is currently maintained. All components and reference set members within a module are maintained by a single organization.
 
 ## SNOMED International Modules
@@ -35,11 +33,6 @@ The example above reinforces some key points. Firstly, all components belong to 
 | <sup>\*1</sup> The module concept may, alternatively, belong to a different module maintained by the same organization. When this is the case, the module will necessarily depend upon the module that contains its identifying concept. It is therefore usually simpler to keep the module concept within the module it identifies. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=Modules" class="button primary">Provide Feedback</a>
+
 [^1]: See footnote
-
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Extension+Guide&entry.670899847=Modules" class="button primary">Provide Feedback</a>
