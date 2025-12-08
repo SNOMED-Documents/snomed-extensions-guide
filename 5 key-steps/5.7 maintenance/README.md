@@ -2,7 +2,7 @@
 
 Maintenance of an extension is essential to ensure that the extension continues to meet emerging user requirements, and remains aligned with updates to the International Edition of SNOMED CT (and any other extension on which it depends). As illustrated in the image below, the extension maintenance period begins when a new version of the extension is published and ends when the next version of the extension is published. As such, there is a continuous cycle of maintenance.
 
-<figure><img src="../../images/57815363.png" alt=""><figcaption><p>Extension maintenance cycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/57815363.png" alt=""><figcaption><p>Extension maintenance cycle</p></figcaption></figure>
 
 Two key maintenance tasks should be performed by an extension producer:
 

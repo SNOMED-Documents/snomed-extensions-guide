@@ -18,6 +18,6 @@ Prior to creating the components or reference sets in an extension, some prelimi
 
 The diagram below illustrates these key steps during the initial stage of extension creation.
 
-<figure><img src="../../images/57815376.png" alt=""><figcaption><p>Prerequisites to creating an extension</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/57815376.png" alt=""><figcaption><p>Prerequisites to creating an extension</p></figcaption></figure>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=5.2%20Preparation" class="button primary">Provide Feedback</a>

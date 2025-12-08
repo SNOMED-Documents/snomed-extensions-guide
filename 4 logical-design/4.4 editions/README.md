@@ -8,19 +8,19 @@ An edition consists of a set of modules (usually maintained by different organiz
 
 The figure below illustrates the composition and dependencies of a local edition that is composed of a local extension module and the two international modules.
 
-<figure><img src="../../images/57815137.png" alt=""><figcaption><p>The composition of an edition is based on its module dependencies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/57815137.png" alt=""><figcaption><p>The composition of an edition is based on its module dependencies</p></figcaption></figure>
 
 The local edition consists of all components and reference set members that belong to the focus module and the two modules on which the focus module depends - [| SNOMED CT core module|](http://snomed.info/id/900000000000207008) and the [| SNOMED CT model component module|](http://snomed.info/id/900000000000012004) . As discussed previously, the version specific dependencies must be stated in the Module Dependency Reference Set.
 
 ## Versioned Edition
 
-There are many use cases that require a date specific version of an edition, including specifying the [substrate](https://app.gitbook.com/s/uKngFry3XF9A8phdXFe8/3-analytics-overview/3.3-substrates-for-analytics) of a SNOMED CT query, and specifying the version of SNOMED CT used to code a specific data element in a health record. A versioned edition includes the contents of the specified version of the focus module, plus the contents of all versioned modules on which the versioned focus module depends (as specified in the [| Module dependency reference set|](http://snomed.info/id/900000000000534007) ). The version of an edition is based on the date on which the edition was released. Many extension providers release their extensions as a versioned edition, using regular and predictable release cycles. For example, the International Edition is released by SNOMED International monthly.
+There are many use cases that require a date specific version of an edition, including specifying the [substrate](/broken/spaces/uKngFry3XF9A8phdXFe8/pages/VPJvzijq1dUKaUDgovQJ) of a SNOMED CT query, and specifying the version of SNOMED CT used to code a specific data element in a health record. A versioned edition includes the contents of the specified version of the focus module, plus the contents of all versioned modules on which the versioned focus module depends (as specified in the [| Module dependency reference set|](http://snomed.info/id/900000000000534007) ). The version of an edition is based on the date on which the edition was released. Many extension providers release their extensions as a versioned edition, using regular and predictable release cycles. For example, the International Edition is released by SNOMED International monthly.
 
 Versioned editions can be identified using the [SNOMED CT URI Standard](https://app.gitbook.com/o/h8Z6qGxuQrzM9vbx5bPT/s/kgrE9Yh9vMDqL5ThuXjH/) using the following format:
 
 http://snomed.info/sct/{sctid}/version/{timestamp}
 
-where {sctid} represents the id of edition's focus module, and {timestamp} represents the release date of the edition. For more information, please refer to [URIs for Editions and Versions](https://app.gitbook.com/s/kgrE9Yh9vMDqL5ThuXjH/2-snomed-ct-uri-space/2.1-uris-for-editions-and-versions).
+where {sctid} represents the id of edition's focus module, and {timestamp} represents the release date of the edition. For more information, please refer to [URIs for Editions and Versions](/broken/spaces/kgrE9Yh9vMDqL5ThuXjH/pages/zlXcFdDjWQKU6GQjemDD).
 
 The table below shows some examples of versioned editions of SNOMED CT, with their corresponding focus module, URI and set of included modules.
 
@@ -41,6 +41,6 @@ As discussed above, an edition is defined based on a single focus module. This f
 
 If a situation arises in which an extension has two equally dependent modules, then a new focus module may need to be created, with dependencies defined to all other modules in the edition. In this case, the focus module may contain only the components used to define the module concept itself and its dependencies as defined in the module dependency reference set. The image below illustrates a situation in which two (equally dependent) sibling modules exist - national module A and national module B - which are both dependent on the [| SNOMED CT core module|](http://snomed.info/id/900000000000207008) and the [| SNOMED CT model component module|](http://snomed.info/id/900000000000012004) , and are not dependent on each other. To form a national edition, which contains both national module A and national module B, a new focus module must be created that is dependent on all other modules in the edition. The concept id of the new focus module is then used in the URI of the national edition that contains both national module A and national module B.
 
-<figure><img src="../../images/59343366.png" alt=""><figcaption><p>Creating a new focus module to represent a national edition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/59343366.png" alt=""><figcaption><p>Creating a new focus module to represent a national edition</p></figcaption></figure>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Extension+Guide&#x26;entry.670899847=4.4%20Editions" class="button primary">Provide Feedback</a>

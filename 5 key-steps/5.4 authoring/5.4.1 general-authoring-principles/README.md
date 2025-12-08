@@ -17,7 +17,7 @@ General principles that apply to all SNOMED CT extension content include:
 
 Extension producers should assign all new extension content to a module which they own. Therefore every concept, description, relationship and reference set member, which is managed within an extension, should belong to a module created and owned by the extension producer. As illustrated in the image below, this is accomplished by setting the _moduleId_ attribute in each component and reference set file to a module concept that was created by the extension producer in the given extension. Any dependencies between components or reference set members in the extension module, and components or reference set members in other modules are specified in the [module dependency reference set](<../../../4 logical-design/4.3 extensions/4.3.2 reference-sets/4.3.2.4 essential-reference-sets/4.3.2.4.2-module-dependency-reference-set.md#module-dependency-reference-set>).
 
-<figure><img src="../../../images/64264453.png" alt=""><figcaption><p>Figure 5.4.1-1: Examples of correct and incorrect module assignment in an extension</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/64264453.png" alt=""><figcaption><p>Figure 5.4.1-1: Examples of correct and incorrect module assignment in an extension</p></figcaption></figure>
 
 For information on how to move content from one module to another, please refer to [Promotion and Demotion.](5.4.1.1-promotion-and-demotion.md)
 
