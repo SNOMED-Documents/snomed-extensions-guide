@@ -80,7 +80,7 @@
       * [Classifying an Edition](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.1-classifying-an-edition.md>)
       * [Packaging and File Naming](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.2-packaging-and-file-naming.md>)
       * [Release Validation](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.3-release-validation.md>)
-      * [Preproduction Releases](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.4-preproduction-releases.md>)
+      * [Preproduction Review](<5 key-steps/5.6 distribution/5.6.1 preparing-for-distribution/5.6.1.4-preproduction-releases.md>)
     * [Distribution Approaches](<5 key-steps/5.6 distribution/5.6.2-distribution-approaches.md>)
     * [Implementation Guidance](<5 key-steps/5.6 distribution/5.6.3-implementation-guidance.md>)
   * [Maintenance](<5 key-steps/5.7 maintenance/README.md>)
